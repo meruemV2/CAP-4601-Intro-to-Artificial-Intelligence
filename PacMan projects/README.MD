@@ -1,0 +1,2 @@
+Explored various Artificial Intelligence techniques to solve problems that have uncertain knowledge, when
+they were appropriate, and their limitations by creating and implementing various search algorithms and applying them to open-source Pacman code in Python. Using this intelligent search agent, developed understanding of informed search agents, adversarial search agents, reflex agents, and Minmax/Alpha Beta Pruning principles.
